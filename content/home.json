@@ -1,39 +1,64 @@
 {
   "site": {
-    "siteId": "00000000-0000-0000-0000-000000000000",
-    "companyName": "Exempel Elservice AB",
-    "organizationNumber": "556000-0000",
-    "displayName": "Exempel Elservice",
+    "siteId": "b3a9ef69-35d0-49c1-a1b3-db7d84abd359",
+    "companyName": "Bergströms el i Sundsvall AB",
+    "organizationNumber": "556771-2657",
+    "displayName": "Bergströms El i Sundsvall AB",
     "language": "sv",
-    "primaryColor": "#1254c5",
-    "secondaryColor": "#172033"
+    "primaryColor": "#1d4ed8",
+    "secondaryColor": "#0f172a",
+    "headingFont": "Georgia, \"Times New Roman\", serif",
+    "bodyFont": "Arial, sans-serif",
+    "headerBackgroundColor": "",
+    "mainBackgroundColor": "",
+    "footerBackgroundColor": "",
+    "schemaType": "LocalBusiness",
+    "theme": "classic",
+    "themeMode": "light"
   },
   "seo": {
-    "title": "Exempel Elservice i Stockholm | Elektriker för hem och företag",
-    "description": "Exempel Elservice hjälper privatpersoner och företag med elinstallationer, felsökning och laddboxar i Stockholm med omnejd.",
+    "title": "Bergströms El i Sundsvall AB | Elinstallationer och elservice i Sundsvall",
+    "description": "Bergströms El i Sundsvall AB erbjuder elinstallationer, elservice, felsökning och servicearbete i Sundsvall med omnejd. Lokal elfirma med bred erfarenhet.",
     "keywords": [
-      "elektriker stockholm",
-      "laddbox",
-      "elinstallation"
+      "elektriker Sundsvall",
+      "elinstallationer",
+      "elservice",
+      "felsökning",
+      "servicearbete",
+      "elfirma",
+      "Bergströms El"
     ]
   },
   "hero": {
-    "eyebrow": "Elektriker i Stockholm",
-    "headline": "Trygg hjälp med elinstallationer och service",
-    "subheadline": "Vi hjälper privatpersoner och företag med säkra, smidiga och professionella ellösningar i Stockholm.",
-    "primaryCtaLabel": "Begär offert",
+    "enabled": true,
+    "eyebrow": "Lokal elfirma i Sundsvall",
+    "headline": "Trygga elarbeten med bred erfarenhet",
+    "subheadline": "Bergströms El i Sundsvall AB hjälper privatpersoner och företag med elinstallationer, elservice, felsökning och servicearbete i Sundsvall med omnejd.",
+    "primaryCtaLabel": "Kontakta oss",
     "primaryCtaHref": "#contact"
   },
   "intro": {
-    "heading": "Din lokala expert",
-    "body": "Vi erbjuder snabb återkoppling, tydliga priser och väl utförda arbeten för både små och stora uppdrag."
+    "enabled": true,
+    "eyebrow": "Introduktion",
+    "heading": "Elinstallationer och elservice i Sundsvall",
+    "body": "Sedan 2008 utför vi elinstallationer och elservice med fokus på säkerhet, kvalitet och personlig service. Vi arbetar med både mindre uppdrag och löpande service för privatpersoner, företag och fastighetsägare."
   },
   "services": {
-    "heading": "Våra tjänster",
+    "enabled": true,
+    "eyebrow": "Tjänster",
+    "heading": "Tjänster",
     "items": [
       {
         "title": "Elinstallationer",
-        "description": "Installation av belysning, eluttag, centraler och fasta elarbeten.",
+        "description": "Vi utför säkra och fackmässiga installationer för olika typer av behov och miljöer.",
+        "image": {
+          "url": "",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Elservice",
+        "description": "Vi hjälper till med löpande service, underhåll och anpassningar av befintliga elanläggningar.",
         "image": {
           "url": "",
           "alt": ""
@@ -41,15 +66,15 @@
       },
       {
         "title": "Felsökning",
-        "description": "Snabb felsökning och åtgärd vid akuta eller återkommande elproblem.",
+        "description": "Snabb och noggrann felsökning när något inte fungerar som det ska.",
         "image": {
           "url": "",
           "alt": ""
         }
       },
       {
-        "title": "Laddboxar",
-        "description": "Installation och rådgivning kring laddboxar för villa och företag.",
+        "title": "Servicearbete",
+        "description": "Smidiga serviceinsatser för att hålla anläggningar i gott skick över tid.",
         "image": {
           "url": "",
           "alt": ""
@@ -58,61 +83,120 @@
     ]
   },
   "about": {
-    "heading": "Om oss",
-    "body": "Exempel Elservice är ett erfaret företag som sätter säkerhet, tydlighet och god service i första rummet. Vårt mål är att göra det enkelt att få rätt hjälp direkt."
+    "enabled": true,
+    "eyebrow": "Om oss",
+    "heading": "Om Bergströms El i Sundsvall AB",
+    "body": "Bergströms El i Sundsvall AB är en lokal elfirma med bred erfarenhet av elarbeten. Vår verksamhet omfattar installationsverksamhet inom el, tele och data samt därmed förenlig verksamhet. Vi värdesätter tydlig kommunikation, pålitliga lösningar och ett professionellt bemötande."
   },
   "usp": {
-    "heading": "Därför väljer kunder oss",
+    "enabled": true,
+    "eyebrow": "Varför välja oss",
+    "heading": "Varför välja oss",
     "items": [
-      "Snabb återkoppling",
-      "Certifierad kompetens",
-      "Tydliga priser"
+      "Lokal elfirma i Sundsvall",
+      "Bred erfarenhet av elarbeten"
     ]
   },
   "testimonials": {
-    "heading": "Vad kunder säger",
+    "eyebrow": "Omdömen",
+    "heading": "Vad våra kunder säger",
     "enabled": true,
     "items": [
       {
-        "name": "Anna",
-        "quote": "Snabb hjälp och väldigt proffsigt bemötande."
+        "name": "Kund i Sundsvall",
+        "quote": "Professionellt bemötande och snabbt utfört arbete med hög kvalitet."
       },
       {
-        "name": "Johan",
-        "quote": "Tydlig offert, bra kommunikation och snyggt utfört arbete."
+        "name": "Företagskund",
+        "quote": "Pålitlig hjälp med elservice och felsökning när vi behövde det som mest."
       }
     ]
   },
   "faq": {
+    "eyebrow": "FAQ",
     "heading": "Vanliga frågor",
     "enabled": true,
     "items": [
       {
-        "question": "Vilka områden arbetar ni i?",
-        "answer": "Vi arbetar främst i Stockholm med omnejd."
+        "question": "Vilka typer av uppdrag tar ni?",
+        "answer": "Vi hjälper till med elinstallationer, elservice, felsökning och servicearbete för både privatpersoner och företag."
       },
       {
-        "question": "Kan jag få offert innan arbete påbörjas?",
-        "answer": "Ja, vi erbjuder tydliga offerter innan vi sätter igång."
+        "question": "Arbetar ni i hela Sundsvall med omnejd?",
+        "answer": "Ja, vi utgår från Sundsvall och arbetar i Sundsvall med omnejd."
+      },
+      {
+        "question": "Kan ni hjälpa till med både små och större jobb?",
+        "answer": "Ja, vi tar oss an både mindre servicejobb och mer omfattande elarbeten."
+      }
+    ]
+  },
+  "openingHours": {
+    "enabled": true,
+    "alwaysOpen": true,
+    "eyebrow": "Öppettider",
+    "heading": "Öppettider",
+    "body": "",
+    "days": [
+      {
+        "day": "Måndag",
+        "opens": "",
+        "closes": "",
+        "closed": false
+      },
+      {
+        "day": "Tisdag",
+        "opens": "",
+        "closes": "",
+        "closed": false
+      },
+      {
+        "day": "Onsdag",
+        "opens": "",
+        "closes": "",
+        "closed": false
+      },
+      {
+        "day": "Torsdag",
+        "opens": "",
+        "closes": "",
+        "closed": false
+      },
+      {
+        "day": "Fredag",
+        "opens": "",
+        "closes": "",
+        "closed": false
+      },
+      {
+        "day": "Lördag",
+        "opens": "",
+        "closes": "",
+        "closed": false
+      },
+      {
+        "day": "Söndag",
+        "opens": "",
+        "closes": "",
+        "closed": false
       }
     ]
   },
   "contact": {
+    "enabled": true,
+    "eyebrow": "Kontakt",
     "heading": "Kontakta oss",
-    "body": "Hör av dig så återkommer vi så snart vi kan.",
-    "phone": "0701234567",
-    "email": "kontakt@exempel.se",
-    "address": "Exempelgatan 1, 111 22 Stockholm"
+    "body": "Välkommen att höra av dig om du behöver hjälp med elinstallationer, elservice eller felsökning i Sundsvall med omnejd.",
+    "email": "",
+    "phone": "070-655 42 17",
+    "address": "Majorsgatan 41, 852 38, Sundsvall"
   },
   "footer": {
-    "companyName": "Exempel Elservice AB",
-    "tagline": "Professionella elarbeten för privatpersoner och företag.",
-    "copyright": "© 2026 Exempel Elservice AB",
-    "socialLinks": {
-      "facebook": "",
-      "instagram": "",
-      "linkedin": ""
-    }
+    "enabled": true,
+    "companyName": "Bergströms el i Sundsvall AB",
+    "tagline": "Lokal elfirma med bred erfarenhet av elarbeten",
+    "copyright": "© 2026 Bergströms el i Sundsvall AB",
+    "socialLinks": {}
   },
   "media": {
     "logoUrl": null,
@@ -121,12 +205,15 @@
     "imageRatio": "4 / 3",
     "heroImage": {
       "url": "",
-      "alt": ""
+      "alt": "Bergströms El i Sundsvall AB"
     },
     "aboutImage": {
       "url": "",
-      "alt": ""
+      "alt": "Bergströms El i Sundsvall AB"
     },
+    "galleryEnabled": true,
+    "galleryEyebrow": "Bilder",
+    "galleryHeading": "",
     "gallery": []
   },
   "security": {
